@@ -2,6 +2,6 @@
 
 web-site about films
 
-npm i
-npm run dev
-npm run build
+## npm i
+## npm run dev
+## npm run build
